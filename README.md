@@ -10,7 +10,4 @@ Send a request to `/api/stow` to receive a fake response.
 
 Attackers can send malicious responses tampering the integrity of the system!.
 
-**
--S.Lakshmi Vignesh
-(W3shi-HackerOne)
-**
+**-S.Lakshmi Vignesh(W3shi-HackerOne)**
