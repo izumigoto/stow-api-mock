@@ -1,7 +1,8 @@
 {
   "version": 2,
   "builds": [
-    { "src": "pages/api/stow.js", "use": "@vercel/node" }
+    { "src": "pages/api/stow.js", "use": "@vercel/node" },
+    { "src": "pages/index.js", "use": "@vercel/next" }
   ],
   "routes": [
     { "src": "/api/stow", "dest": "/api/stow.js" }
