@@ -1,6 +1,6 @@
 export default function handler(req, res) {
   console.log("Incoming request:", req.method, req.query, req.body);
-
+  
   // Simulated response (modify as needed)
   res.status(200).json({
     success: true,
